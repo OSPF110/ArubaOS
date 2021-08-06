@@ -1,0 +1,3 @@
+Aruba-2930F-24G-PoEP-4SFPP# conf t
+Aruba-2930F-24G-PoEP-4SFPP(config)# vlan xxx
+### denoted vlan identity

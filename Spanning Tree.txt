@@ -1,0 +1,5 @@
+Aruba-2930F-24G-PoEP-4SFPP# conf t
+Aruba-2930F-24G-PoEP-4SFPP(config)# spanning-tree
+Aruba-2930F-24G-PoEP-4SFPP(config)# spanning-tree config-name xxx
+Aruba-2930F-24G-PoEP-4SFPP(config)# spanning-tree config-revision 1
+## xxx denoted config name

@@ -1,0 +1,5 @@
+Aruba-2930F-24G-PoEP-4SFPP# conf t
+Aruba-2930F-24G-PoEP-4SFPP(config)# trunk xx-xx trkyy lacp
+## xx denotes port numbers to be part of trunk
+## yy denotes trunk number
+## lacp flag sets trunk to link aggregation control protcol

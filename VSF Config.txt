@@ -1,0 +1,5 @@
+Aruba-2930F-24G-PoEP-4SFPP# conf t
+Aruba-2930F-24G-PoEP-4SFPP(config)# vsf member 1 link 1 ethernet xx
+Aruba-2930F-24G-PoEP-4SFPP(config)# vsf enable domain 1
+## xx donates port number to be used for stack
+## for two switch stack, run on each switch

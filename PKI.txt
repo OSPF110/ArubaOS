@@ -1,0 +1,6 @@
+Aruba-2930F-24G-PoEP-4SFPP# conf t
+Aruba-2930F-24G-PoEP-4SFPP(config)# crypto pki identity-profile 1 subject common-name xxx
+Aruba-2930F-24G-PoEP-4SFPP(config)# crypto pki enroll-self-signed certificate-name yyy
+Aruba-2930F-24G-PoEP-4SFPP(config)# web-management ssl
+## xxx denotes subject common-name
+## yyy denotes cert name
