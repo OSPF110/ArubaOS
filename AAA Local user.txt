@@ -1,0 +1,3 @@
+Aruba-2930F-24G-PoEP-4SFPP# conf t
+Aruba-2930F-24G-PoEP-4SFPP(config)# aaa authentication local-user "Username" group Level-15 password plaintext
+## "Username" replace with username been used
