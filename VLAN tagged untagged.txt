@@ -1,0 +1,5 @@
+Aruba-2930F-24G-PoEP-4SFPP# conf t
+Aruba-2930F-24G-PoEP-4SFPP(config)# vlan xxx un/tagged int yyy
+## xxx denotes vlan identity
+## yyy denotes port number (If stacked will be in y/yy format switch member then port)
+## un/tagged either untagged or tagged
